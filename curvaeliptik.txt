@@ -2,3 +2,4 @@ Kurva Eliptik
 - Untuk menyimpan hasil pemrograman
 - Model matematika
 - Kriptografi
+- edit
